@@ -228,6 +228,7 @@ object Collections extends App{
     val names = Map("fname" -> "Ed", "lname" -> "Chigliak")
     for ((k,v) <- names) println(f"key is ${k} and value is ${v}")
 
+
   /**********************************************************************************************
     * 10.11. Using zipWithIndex or zip to Create Loop Counters
     * You want to loop over a sequential collection, and you’d like to have access to a counter
