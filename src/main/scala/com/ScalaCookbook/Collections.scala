@@ -296,7 +296,6 @@ object Collections extends App{
     10.16. Combining map and flatten with flatMap
   *********************************************************************************************************/
 
-"Piysuh"
 
 
 }
